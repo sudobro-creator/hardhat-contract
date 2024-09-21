@@ -12,6 +12,3 @@ npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
 # hardhat-contract
-# hardhat-contract
-# hardhat-contract
-# hardhat-contract
